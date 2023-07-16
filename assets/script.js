@@ -91,7 +91,7 @@ window.addEventListener('click', ({ target }) => {
       
       savingTime()
 
-      window.location.href = 'endScreen.html';
+      window.location.href = '../htmls/endScreen.html';
     }
   });
       
